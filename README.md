@@ -9,4 +9,4 @@ Documentation can be found on American Meteorological Society Journals (Journal 
 ## Shapefiles
 The shapefiles of Seventeen large hydroclimatic regions in China.
 
-![](Figure 1 Seventeen large hydroclimatic regions in China.jpg?raw=false)
+![](Figure 1 Seventeen large hydroclimatic regions in China.jpg?raw=true)
