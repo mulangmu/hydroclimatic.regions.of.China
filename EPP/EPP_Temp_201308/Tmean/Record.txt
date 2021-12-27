@@ -1,0 +1,58 @@
+Date       Time     Program
+2013-05-06 20:25:45  Begin to read parameter                                    
+2013-05-06 20:25:45 Begin reading file of E:\EPP_Temp_201304\T                  
+2013-05-06 20:25:45 Finish reading file of E:\EPP_Temp_201304\T                 
+2013-05-06 20:30:03  Begin to read parameter                                    
+2013-05-06 20:30:03 Begin reading file of E:\EPP_Temp_201304\T                  
+2013-05-06 20:30:03 Finish reading file of E:\EPP_Temp_201304\T                 
+2013-05-06 20:30:03  Begin to compute parameter                                 
+2013-05-06 20:30:03  Finish to compute parameter                                
+2013-05-06 20:30:03  Begin to write parameter                                   
+2013-05-06 20:30:04  Begin to compute parameter                                 
+2013-05-06 20:30:04  Finish to compute parameter                                
+2013-05-06 20:30:04  Begin to write parameter                                   
+2013-05-06 20:30:05  Begin to compute parameter                                 
+2013-05-06 20:30:06  Finish to compute parameter                                
+2013-05-06 20:30:06  Begin to write parameter                                   
+2013-05-06 20:30:06  Begin to compute parameter                                 
+2013-05-06 20:30:07  Finish to compute parameter                                
+2013-05-06 20:30:07  Begin to write parameter                                   
+2013-05-06 20:30:07  Begin to compute parameter                                 
+2013-05-06 20:30:08  Finish to compute parameter                                
+2013-05-06 20:30:08  Begin to write parameter                                   
+2013-05-06 20:30:08  Begin to compute parameter                                 
+2013-05-06 20:30:09  Finish to compute parameter                                
+2013-05-06 20:30:09  Begin to write parameter                                   
+2013-05-06 20:30:10  Begin to compute parameter                                 
+2013-05-06 20:30:10  Finish to compute parameter                                
+2013-05-06 20:30:10  Begin to write parameter                                   
+2013-05-06 20:30:11  Begin to compute parameter                                 
+2013-05-06 20:30:11  Finish to compute parameter                                
+2013-05-06 20:30:11  Begin to write parameter                                   
+2013-05-06 20:30:12  Begin to compute parameter                                 
+2013-05-06 20:30:12  Finish to compute parameter                                
+2013-05-06 20:30:12  Begin to write parameter                                   
+2013-05-06 20:30:13  Begin to compute parameter                                 
+2013-05-06 20:30:13  Finish to compute parameter                                
+2013-05-06 20:30:13  Begin to write parameter                                   
+2013-05-06 20:30:14  Begin to compute parameter                                 
+2013-05-06 20:30:14  Finish to compute parameter                                
+2013-05-06 20:30:14  Begin to write parameter                                   
+2013-05-06 20:30:15  Begin to compute parameter                                 
+2013-05-06 20:30:15  Finish to compute parameter                                
+2013-05-06 20:30:15  Begin to write parameter                                   
+2013-05-06 20:30:16  Begin to compute parameter                                 
+2013-05-06 20:30:16  Finish to compute parameter                                
+2013-05-06 20:30:16  Begin to write parameter                                   
+2013-05-06 20:30:17  Begin to compute parameter                                 
+2013-05-06 20:30:18  Finish to compute parameter                                
+2013-05-06 20:30:18  Begin to write parameter                                   
+2013-05-06 20:30:18  Begin to compute parameter                                 
+2013-05-06 20:30:19  Finish to compute parameter                                
+2013-05-06 20:30:19  Begin to write parameter                                   
+2013-05-06 20:30:19  Begin to compute parameter                                 
+2013-05-06 20:30:20  Finish to compute parameter                                
+2013-05-06 20:30:20  Begin to write parameter                                   
+2013-05-06 20:30:20  Begin to compute parameter                                 
+2013-05-06 20:30:21  Finish to compute parameter                                
+2013-05-06 20:30:21  Begin to write parameter                                   
